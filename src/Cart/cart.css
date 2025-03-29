@@ -1,0 +1,21 @@
+.cart-container {
+  height: 110px;
+  width: 110px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin-bottom: 60px;
+}
+.cart-img {
+  width: 100px;
+  height: 100px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 5px 5px;
+}
+
+.cart {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
